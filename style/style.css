@@ -593,10 +593,12 @@ footer .container{
  }
  .footerCat a::first-letter{
     color:#44C697;
+    
 
  }
  .footerCat a{
     margin-bottom: 15px;
+    margin-right: 20px;
  }
 .footerCat {
    
